@@ -3,7 +3,7 @@
 
 [comment]: # (Instructie: vul onderstaande velden in. 'Bijeenkomst' is peilmoment 1, peilmoment 2 of beslismoment.)
 
-* **Studentnummer**:                       1878137
+* **Studentnummer**: 1878137
 * **Naam**: Layco Supphawatvorakhun
 * **Bijeenkomst**: 
 * **Datum**: 03-04-2025
@@ -39,6 +39,8 @@
 
 * [PROG-III: Mastering Mastermind](https://canvas.hu.nl/courses/44855/assignments/328065/submissions/360921)
     * Bij het ontwikkelen van de AI-tegenstanders voor Mastermind heb ik verschillende algoritmen geanalyseerd.
+    * Ik heb mijn eigen[feedback](https://canvas.hu.nl/courses/44855/assignments/328065/submissions/360921) in Canvas genoteerd en in de opdracht verwerkt.
+    * Ik heb [feedback](https://github.com/AI-S2-2025/mastering-mastermind-LocoLayco/blob/main/feedback.md) van een medestudent gekregen en dit verwerkt in de opdracht. 
 
 ---
 
@@ -59,6 +61,8 @@
 [comment]: # (Portfolio-items peilmoment 1)
 * [PROG-III: Mastering Mastermind](https://canvas.hu.nl/courses/44855/assignments/328065/submissions/360921)
    * Voor deze opdracht heb ik het spel geprogrammeerd, met een focus op codekwaliteit, modulariteit en scope.
+   * Ik heb mijn eigen[feedback](https://canvas.hu.nl/courses/44855/assignments/328065/submissions/360921) in Canvas genoteerd en in de opdracht verwerkt.
+   * Ik heb [feedback](https://github.com/AI-S2-2025/mastering-mastermind-LocoLayco/blob/main/feedback.md) van een medestudent gekregen en dit verwerkt in de opdracht. 
 ---
 
 [comment]: # (Portfolio-items peilmoment 2)
