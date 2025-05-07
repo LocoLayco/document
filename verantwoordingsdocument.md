@@ -19,6 +19,15 @@
 
 [comment]: # (Inleiding peilmoment 2)
 
+Wat ging er goed?
+De afgelopen periode was best uitdagend door persoonlijke omstandigheden, maar ik ben blij dat ik vooruitgang heb geboekt. Het lukt me steeds beter om me te focussen op school, en ik merk dat ik opdrachten beter begrijp. Deze verbeterde focus helpt me om meer grip te krijgen op de stof, wat echt een opluchting is, vooral in deze drukke tijden.
+
+Wat kon er beter?
+Er zijn nog momenten dat ik de lesstof niet helemaal begrijp, en dat zorgt soms voor wat frustratie. Het is duidelijk geworden dat ik meer tijd moet steken in zelfonderzoek om de dingen beter te doorgronden. Dat zou me helpen om de stof sneller en efficiënter te begrijpen.
+
+Wat ga ik komende periode vasthouden en/of verbeteren?
+De komende tijd wil ik mijn focus op school blijven vasthouden en vooral mijn opdrachten inhalen. Mijn groepsproject krijgt nu echt prioriteit, want ik wil ervoor zorgen dat ik mijn team niet afleid en mijn werk goed doe. Ook wil ik alle openstaande opdrachten, zoals de debugger en "L&W: Turning Complete", afronden zodat ik weer helemaal bij ben.
+
 ---
 
 [comment]: # (Inleiding beslismoment)
@@ -46,6 +55,9 @@
 
 [comment]: # (Portfolio-items peilmoment 2)
 
+* [L&W-II: Verzamelingen](https://canvas.hu.nl/courses/44855/assignments/328082)
+   * In deze opdracht leerde ik verzamelingsvergelijkingen aantonen met Venn-diagrammen, met focus op logische analyse, duidelijke documentatie en toepassing van functionele decompositie.
+
 ---
 
 [comment]: # (Portfolio-items beslismoment)
@@ -66,6 +78,11 @@
 ---
 
 [comment]: # (Portfolio-items peilmoment 2)
+* [PROG-V: Statically Typed Programming in C++](https://canvas.hu.nl/courses/44855/assignments/328074)
+   * Voor deze opdracht heb ik de instructies gevolgd, met een focus op codekwaliteit en het opbouwen van mijn kennis van C++.
+
+* [PROG-VII: C++: Domain design en implementatie](https://canvas.hu.nl/courses/44855/assignments/328077)
+   * In deze opdracht heb ik een gedeeltelijk C++-project aangevuld en getest, waarbij ik meer leerde over projectstructuur, CMake en het schrijven van unittests.
 
 ---
 
@@ -102,7 +119,16 @@
 ---
 
 [comment]: # (Portfolio-items peilmoment 2)
+* [CODE-I: Git](https://canvas.hu.nl/courses/44855/assignments/348875)
+   * Voor deze opdracht heb git commandos gebruikt om mijn project te fastfowarden
+   * Ik heb de feedback met mijn project groep verwerkt.
+     
+* [PROG-V: Statically Typed Programming in C++](https://canvas.hu.nl/courses/44855/assignments/328074)
+   * Voor deze opdracht heb ik de instructies gevolgd, met een focus op codekwaliteit en het opbouwen van mijn kennis van C++.
 
+* [PROG-VII: C++: Domain design en implementatie](https://canvas.hu.nl/courses/44855/assignments/328077)
+   * In deze opdracht heb ik een gedeeltelijk C++-project aangevuld en getest, waarbij ik meer leerde over projectstructuur, CMake en het schrijven van unittests.
+     
 ---
 
 [comment]: # (Portfolio-items beslismoment)
@@ -136,6 +162,9 @@
 ---
 
 [comment]: # (Portfolio-items peilmoment 2)
+
+* [L&W-II: Verzamelingen](https://canvas.hu.nl/courses/44855/assignments/328082)
+   * In deze opdracht leerde ik verzamelingsvergelijkingen aantonen met Venn-diagrammen, met focus op logische analyse, duidelijke documentatie en toepassing van functionele decompositie.
 
 ---
 
@@ -245,7 +274,12 @@
 ---
 
 [comment]: # (Beschrijving attitudes peilmoment 2)
+* Doorzettend
+   * Na een periode van persoonlijke omstandigheden heb ik alles rustig opgepakt, stap voor stap. Ik heb de tijd genomen om mijn situatie goed te overzien en mezelf weer op te bouwen.
 
+* Verbeteringsgericht
+ * Mijn focus ligt nu vooral op verbetering. Ik neem de feedback die ik in deze periode heb ontvangen serieus en probeer me actief aan te passen op basis daarvan.
+   
 ---
 
 [comment]: # (Beschrijving attitudes beslismoment)
